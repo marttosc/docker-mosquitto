@@ -1,4 +1,4 @@
-# Dockerfile for the Mosquitto MQQT broker
+# Dockerfile for the Mosquitto MQTT broker
 
 ### Run
 
